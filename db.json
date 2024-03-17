@@ -2,24 +2,6 @@
   "products": [
     {
       "name": "Dam di hoc",
-      "price": 200,
-      "description": "Mo ta chi tiet san pham",
-      "id": "1"
-    },
-    {
-      "name": "Dam di hoc",
-      "price": 2020000,
-      "description": "Mo ta chi tiet san pham",
-      "id": "5"
-    },
-    {
-      "name": "Dam di hoc",
-      "price": 2020000,
-      "description": "Mo ta chi tiet san pham",
-      "id": "6"
-    },
-    {
-      "name": "Dam di hoc",
       "price": 2020000,
       "description": "Mo ta chi tiet san pham",
       "id": "7"
